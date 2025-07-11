@@ -7,7 +7,6 @@ Build a forecasting model to predict future sales trends using historical retail
 
 ## 🛠️ Tools Used
 - Python
-- [Facebook Prophet](https://facebook.github.io/prophet/)
 - Matplotlib
 - Scikit-learn (for MAE)
 - Google Colab
